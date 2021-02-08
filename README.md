@@ -3,11 +3,13 @@ Arslan Naeem-
 Yawar Ul Haq
 
 Dataset:
+
 Dlib library (available i the repository)
 
 Setup:
 
 Execution:
+
 --It requires a media input device such as Webcam to be used for input video stream
 
 Load the file:"detect_drowsiness.py" using Pycharm and Run the following command using Terminal
