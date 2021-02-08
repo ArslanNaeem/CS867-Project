@@ -4,6 +4,9 @@ Yawar Ul Haq
 
 Dataset:
 Dlib library (available i the repository)
+
+Setup:
+
 Execution:
 --It requires a media input device such as Webcam to be used for input video stream
 
