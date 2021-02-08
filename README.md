@@ -14,8 +14,8 @@ Execution:
 
 Load the file:"detect_drowsiness.py" using Pycharm and Run the following command using Terminal
 
- python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat
+1.python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat
 
 OR
 
- python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm.wav
+2.python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm.wav
