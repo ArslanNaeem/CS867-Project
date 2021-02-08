@@ -1,6 +1,6 @@
 # CS867-Project
 Arslan Naeem- 
-Yawar Ul Haq-
+Yawar Ul Haq
 
 
 # USAGE
